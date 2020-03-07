@@ -1,0 +1,62 @@
+{
+    "Group": {
+        "RasUpward": {
+            "Year1": {
+                "Alert": 1.1,
+                "Limit": 1.2
+            },
+            "Year2": {
+                "Alert": 1.3,
+                "Limit": 1.4
+            },
+            "Year3": {
+                "Alert": 1.5,
+                "Limit": 1.6
+            }
+        },
+        "RasDownward": {
+            "Year1": {
+                "Alert": 1.01,
+                "Limit": 1.02
+            },
+            "Year2": {
+                "Alert": 1.03,
+                "Limit": 1.04
+            },
+            "Year3": {
+                "Alert": 1.05,
+                "Limit": 1.06
+            }
+        }
+    },
+    "DM": {
+        "RasUpward": {
+            "Year1": {
+                "Alert": 10.1,
+                "Limit": 20.2
+            },
+            "Year2": {
+                "Alert": 30.3,
+                "Limit": 40.4
+            },
+            "Year3": {
+                "Alert": 50.5,
+                "Limit": 60.6
+            }
+        },
+        "RasDownward": {
+            "Year1": {
+                "Alert": 70.07,
+                "Limit": 80.08
+            },
+            "Year2": {
+                "Alert": 90.09,
+                "Limit": 100.1
+            },
+            "Year3": {
+                "Alert": 11.11,
+                "Limit": 12.12
+            }
+        }
+    }
+}
